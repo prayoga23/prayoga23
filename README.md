@@ -25,7 +25,7 @@ Saya adalah seorang pengembang web dan mobile yang bersemangat, dengan pengalama
 
 ---
 
-### Tech Stack
+### Skills
 
 <!-- Ikon dari tandpfun/skill-icons (skillicons.dev) -->
 <p>

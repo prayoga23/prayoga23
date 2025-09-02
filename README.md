@@ -11,7 +11,7 @@ Frontend Developer • Web Developer • Mobile Developer • UI/UX Freelancer
   <a href="mailto:prayoga2np@gmail.com"><img src="https://img.shields.io/badge/Email-prayoga2np%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/prayoga-nugroho-pangestu/"><img src="https://img.shields.io/badge/LinkedIn-Prayoga%20Nugroho%20Pangestu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/pra97360"><img src="https://img.shields.io/badge/X-@pra97360-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
-  <a href="https://www.instagram.com/prayoganugroho_/"><img src="https://img.shields.io/badge/Instagram-@prayoganugroho__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.instagram.com/prayoganugroho._/"><img src="https://img.shields.io/badge/Instagram-@prayoganugroho._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://wa.me/628990703408"><img src="https://img.shields.io/badge/WhatsApp-%2B62%208990703408-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://bit.ly/prayoganugroho09portofolio"><img src="https://img.shields.io/badge/Portfolio-Website-3368A1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 

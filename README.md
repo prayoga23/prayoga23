@@ -75,7 +75,7 @@ Saya adalah seorang pengembang web dan mobile yang bersemangat, dengan pengalama
 
 ### Hubungi Saya
 
-- Email: mailto:prayoga2np@gmail.com
+- Email: prayoga2np@gmail.com
 - WhatsApp: https://wa.me/628990703408
 - LinkedIn: https://www.linkedin.com/in/prayoga-nugroho-pangestu/
 - Instagram: https://www.instagram.com/prayoganugroho_/

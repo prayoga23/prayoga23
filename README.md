@@ -47,7 +47,7 @@ Saya adalah seorang pengembang web dan mobile yang bersemangat, dengan pengalama
 
 - Website Blog HMI (Laravel)
   - Repo: https://github.com/prayoga23/website-laravel-hmi
-  - Live: https://hmidakush.com
+  - Live: https://hmi-unesa.my.id/
 - Absensi Online Pegawai Non ASN Samsat Provinsi Nusa Tenggara (Barcode)
   - Repo: https://github.com/prayoga23/Absensi-Online-Pegawai-Non-ASN-Samsat-Provinsi-Nusa-Tenggara-Menggunakan-Barcode
 - IoT Smart Water Storage (PHP Native)
